@@ -1,5 +1,8 @@
-# Commands for Angular7 ReactJs
-# https://github.com/datanorden-hans/angular-reactjs
+# Current subject:
+
+ https://github.com/datanorden-hans/angular-reactjs
+ 
+ # Commands for AngularJS
 
 Restapi:
 
@@ -22,25 +25,24 @@ jsonwebtoken = 	tar hand om och skapar säkra nycklar
 mongoose =	uppkoppling till mongoDB
 
 
+# Git Commands
 
-Git Commands:
-
-https://github.com/joshnh/Git-Commands/blob/master/README.md
+https://github.com/joshnh/Git-Commands/blob/master/README.md *help with commands*
 
 git init
 
 git add .
 
-(new repository) git remote add origin https://github.com/Lundgrn/AngularJS5.git
+*(new repository) git remote add origin https://github.com/Lundgrn/AngularJS5.git*
 
 git commit -m "enter comment on commit"
 
 git push -u origin master
 
 
-# Angular:7
+# Angular7 and React.js
 
-/* npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI) */
+* npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
 
 ng new demo1
 
