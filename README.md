@@ -33,7 +33,7 @@ git init
 
 git add .
 
-*(new repository) git remote add origin https://github.com/Lundgrn/AngularJS5.git*
+*(new repository) git remote add origin https://github.com/Lundgrn/AngularJS5.git
 
 git commit -m "enter comment on commit"
 
