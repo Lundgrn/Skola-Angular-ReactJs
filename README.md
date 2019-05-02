@@ -38,7 +38,7 @@ git commit -m "enter comment on commit"
 git push -u origin master
 
 
-Angular:7
+# Angular:7
 
 /* npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI) */
 
