@@ -4,7 +4,7 @@
  
  # Commands for AngularJS
 
-Restapi:
+Restapi: 
 
 npm init     (initialisera node)
 
