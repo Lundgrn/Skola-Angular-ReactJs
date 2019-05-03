@@ -1,11 +1,11 @@
 # stuff to install:
-postman
+* postman
 
-mongoDB + mongoDB compass
+* mongoDB + mongoDB compass
 
-nodeJS
+* nodeJS
 
-xampp
+* xampp
 
 * npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
 
