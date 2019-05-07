@@ -18,7 +18,7 @@
 
 https://www.npmjs.com/package/ngx-cookie-service
 
-*npm install ngx-cookie-service --save
+npm install ngx-cookie-service --save
 
  # Commands for AngularJS
 
