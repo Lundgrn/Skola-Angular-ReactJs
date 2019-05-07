@@ -45,9 +45,9 @@ mongoose =	uppkoppling till mongoDB
 
 # Git Commands
 
-/ git clone insert-repository-http-link
+ git clone insert-repository-http-link
 
-/ git pull (for updates)
+ git pull (for updates)
 
 https://github.com/joshnh/Git-Commands/blob/master/README.md *help with commands*
 
