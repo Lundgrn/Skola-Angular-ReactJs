@@ -14,13 +14,19 @@
 
  https://github.com/datanorden-hans/angular-reactjs
  
+ # Cookies
+
+https://www.npmjs.com/package/ngx-cookie-service
+
+*npm install ngx-cookie-service --save
+
  # Commands for AngularJS
 
 Restapi: 
 
 npm init     (initialisera node)
 
-npm install --save express, nodemon, bcrypt, body-parser, jsonwebtoken, mongoose, 	(installera olika bibliotek)
+npm install --save express, nodemon, bcrypt, body-parser, jsonwebtoken, mongoose,	(installera olika bibliotek)
 
 npm start (för att starta api server)
 
