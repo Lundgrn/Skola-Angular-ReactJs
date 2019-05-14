@@ -15,9 +15,13 @@
  extensions i Visual Code:
  
  Live server
+ 
  html css support
+ 
  simple react snippets
+ 
  gitlens
+ 
 
 # Current subject:
 
