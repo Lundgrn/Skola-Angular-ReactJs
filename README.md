@@ -12,6 +12,13 @@
 * npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
 * npm install -g create-react-app (---)
 
+ extensions i Visual Code:
+ 
+ Live server
+ html css support
+ simple react snippets
+ gitlens
+
 # Current subject:
 
  https://github.com/datanorden-hans/angular-reactjs
