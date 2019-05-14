@@ -7,6 +7,8 @@
 
 * xampp
 
+* git https://git-scm.com/downloads
+
 * npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
 * npm install -g create-react-app (---)
 
@@ -62,14 +64,23 @@ git commit -m "enter comment on commit"
 git push -u origin master
 
 
-# Angular7 and React.js
+# Angular7
 
 * npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
 
+ng serve -o (för att starta server)
+
 ng new demo1
 
-ng serve -o (för att starta server)
 
 ctr+c (för att stänga av server)
 
-ng g c home = ny sida / component i detta fall skapade den en home component / sida.
+ng g c home/header/footer
+
+# React.js
+
+npm start (för att starta sidan)
+
+create-react-app demo1
+
+
