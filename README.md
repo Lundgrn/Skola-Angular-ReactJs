@@ -8,7 +8,7 @@
 * xampp
 
 * npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
-
+* npm install -g create-react-app (---)
 
 # Current subject:
 
