@@ -92,6 +92,6 @@ ng g c home/header/footer
 
 npm start (för att starta sidan)
 
-create-react-app demo1
+npx create-react-app demo1
 
 
