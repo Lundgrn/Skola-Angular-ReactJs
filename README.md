@@ -90,13 +90,14 @@ ng g c home/header/footer
 
 # React.js
 
-npm install --save redux, react-redux, redux-thunk
+npm install --save redux, react-redux, redux-thunk, react-router-dom
 
 npm install --save axios
 
 npm start (för att starta sidan)
 
 create-react-app demo1
+
 
 
 
