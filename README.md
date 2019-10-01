@@ -79,12 +79,9 @@ git push -u origin master
 
 * npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
 
-ng serve -o (för att starta server)
+ng serve -o
 
 ng new demo1
-
-
-ctr+c (för att stänga av server)
 
 ng g c home/header/footer
 
@@ -94,12 +91,14 @@ npm install --save redux, react-redux, redux-thunk, react-router-dom
 
 npm install --save axios
 
-npm start (för att starta sidan)
+npm start
 
 create-react-app demo1
 
+# Vue.js
 
+npm install -g @vue/cli
 
+vue create my-vueapp
 
-
-
+npm run serve
