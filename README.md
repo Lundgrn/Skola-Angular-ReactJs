@@ -79,11 +79,11 @@ git push -u origin master
 
 * npm install -g @angular/cli (bara om man ska göra app på en ny dator som inte har angular CLI)*
 
-ng serve -o
-
 ng new demo1
 
 ng g c home/header/footer
+
+ng serve -o
 
 # React.js
 
@@ -91,9 +91,9 @@ npm install --save redux, react-redux, redux-thunk, react-router-dom
 
 npm install --save axios
 
-npm start
+create-react-app dem
 
-create-react-app demo1
+npm start
 
 # Vue.js
 
